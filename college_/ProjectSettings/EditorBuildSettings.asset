@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Week3_Assignment/Scenes/Week3_Scene.unity
     guid: 5d9dc7cb9fe9a4de9bb7032e8fdff4dc
+  - enabled: 1
+    path: Assets/Week6_Assignment/Scenes/Week6_Scene.unity
+    guid: 2053b727cef2a48ea8b97e8dc0f65c31
   m_configObjects: {}
