@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f607288160446ca65b87ef3d509a12, type: 3}
+  m_Name: IntroDialog
+  m_EditorClassIdentifier: 
+  _dialogStrings:
+  - Welcome, recruit! You've joined our elite team of Dredge Divers, specialists
+    in exploring the depths of the unknown.
+  - Our mission is to uncover the secrets hidden within these murky waters. Our world
+    has been shaped by countless shipwrecks, lost treasures, and forgotten tales.
+    It's our duty to delve into the depths, recover valuable artifacts, and unravel
+    the mysteries that lie beneath.
+  - The underwater terrain is treacherous, filled with intricate mazes and dangerous
+    creatures. You'll need to master your diving skills, navigate through tight passages,
+    and overcome obstacles. Stay alert for hostile marine life lurking in the darkness.
+    Our enemies seek to protect what lies beneath, and they won't hesitate to strike.
+  - Your wits, skills, and resourcefulness will be your greatest assets. Remember
+    to utilize your equipment wisely, upgrade your diving gear, and collect valuable
+    resources scattered throughout the depths. And never forget, teamwork is crucial.
+    Coordinate with your fellow Dredge Divers to accomplish missions and support
+    each other when danger arises.
+  - The fate of the unknown waters rests in our hands. The legacy of the Dredge Divers
+    is defined by those who face the depths with courage and determination. Now,
+    go forth, brave diver, and make your mark in history!

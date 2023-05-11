@@ -8,9 +8,9 @@ namespace Week4_5_Assignment.Code
         public UnityEvent onItemCollectedEvent;
         
         // Check if the player has collected the item 
-        private void OnTriggerEnter(Collider other)
+        private void OnTriggerEnter( Collider other )
         {
-            if (other.CompareTag("Player"))
+            if ( other.CompareTag( "Player" ) )
             {
                 // Fire item collected event and destroy the game object
                 onItemCollectedEvent.Invoke();
